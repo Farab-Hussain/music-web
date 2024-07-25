@@ -1,0 +1,375 @@
+.Step-one-main{
+    height: 110px;
+    border:none;
+}
+
+.Row1{
+    height: 110px;
+    border:none;
+}
+
+.navbar-button{
+    background-color: black;
+    height: 110px;
+    border:none;
+}
+
+.navbar-button1{
+    background-color: black;
+    height: 110px;
+    padding-top:40px;
+    padding-left:25px;
+    border:none;
+}
+
+
+.Navbar{
+    height: 110px;
+}
+
+.Navbar-img{
+    width:78%;
+    padding-left:57px;
+    padding-top:20px;
+}
+
+
+.Navbar-anker{
+    font-size: 16px;
+    line-height: 20.8px;
+    font-weight: 400;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding-left:20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 18px;
+}
+
+.Navbar-anker:hover{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 20.8px;
+    font-weight: 400;
+    color:white;
+    background-color: #EB031A;
+    transition: 0.5s;
+    text-decoration: none;
+    padding-left:20px;
+    padding-top: 18px;
+    padding-bottom:18px;
+    padding-right:18px;
+}
+
+
+
+
+
+
+.step-two-img{
+    height:720px;
+    background-image: url(Image/6385e59ce6115515998ac9e3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    margin-top:-43px;
+}
+
+.shadow{
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.769);
+}
+
+
+.Step-two-i{
+    color: white;
+    padding-top:150px;
+    font-size: 78px;
+    line-height:85.5px;
+    font-weight: 700;
+    padding-left: 52px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.step-two-para{
+    color: white;
+    padding-top:70px;
+    font-size:17px;
+    line-height:22.5px;
+    font-weight: 400;
+    padding-left: 52px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.step-two-button{
+    margin-left: 50px;
+    height:50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
+    background-color: #EB031A;
+    width:15%;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 0px;
+}
+
+
+
+
+.Step-three-main-div{
+    height:1750px;
+    padding-top: 50px;
+    background-color: black;
+}
+
+.Step-Three-strong{
+    font-size:45px;
+    color: white;
+    line-height: 49.5px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.HR{
+    height: 5px;
+    width:24%;
+    margin-left:422px;
+    background-color: #EB031A;
+}
+.step-three-para{
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+.spacing{
+    height:45px;
+}
+.step-three-img{
+    height:300px;
+    border:none;
+}
+
+
+.Music-type{
+    width:90%;
+    padding-left:25px;
+}
+
+.For-center-spacing{
+    height: 50px;
+}
+
+
+
+.Step-three-Anker{
+    font-size:14px;
+    line-height: 18.2px;
+    font-weight: 400;
+    text-decoration: none;
+    padding-left: 70px;
+}
+.Step-three-Anker:hover{
+    font-size:14px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 18.2px;
+    font-weight: 400;
+    text-decoration: none;
+    padding-left: 70px;
+}
+
+.Step-three-Underline{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 18.2px;
+    font-weight:400;
+}
+
+.span1{
+    
+    color: white;
+    font-size: 14px;
+    line-height: 18.2px;
+    font-weight:400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Strong1{
+    font-size:20px;
+    color: white;
+    line-height: 26px;
+    font-weight: 700;
+    padding-left:73px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Step-Four-strong{
+    font-size:45px;
+    color: white;
+    line-height: 49.5px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.HR{
+    height:3px;
+    margin-left:460px;
+    width:25%;
+}
+
+.Step-Four-main-div{
+    margin-top:-750px;
+    height:380px;
+    padding-top: 50px;
+    background-color:#2C0105;
+}
+
+.Step-four-button{
+    width: 33%;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
+    margin-left:410px;
+    background-color: #EB031A;
+    border: none;
+    border-radius: 0px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-five-main{
+    height: 350px;
+    margin-top:50px;
+    border:none;
+}
+
+
+.Step-Five-strong{
+    font-size: 42px;
+    line-height:46.2px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.spacing2{
+    height: 30px;
+}
+.sec1{
+    height: 200px;
+    background-color: black;
+}
+
+.card-img{
+    width:79%;
+}
+
+
+
+
+
+.step-six-mian{
+    height:500px;
+    margin-top:-30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:url(Image/6385f4b3fb3e12497f762233.png);
+    background-color: black;
+}
+
+.Step-six-img{
+    margin-top:100px;
+    margin-left:490px;
+    width:11%;
+}
+
+
+
+.Step-six-italic{
+    font-size:51px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    line-height: 66.3px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.Step-six-hr{
+    background-color: #E93D3D;
+    width: 25%;
+    height:2px;
+    text-align: center;
+}
+
+.Step-six-para{
+    font-size: 16px;
+    line-height:20.8px;
+    font-weight: 400;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+
+.Step-seven-main{
+    height:55px;
+    background-color: white;
+}
+
+.Step-seven-para{
+    font-size: 14px;
+    line-height: 18.2px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    padding-top: 20px;
+    padding-left:90px;
+}
+
+
+
+.fa-facebook{
+    padding-left: 350px;
+    padding-top:15px;
+    font-size:25px;
+}
+
+.fa-instagram{
+    padding-left:25px;
+    font-size:25px;
+}
+
+.fa-twitter{
+    padding-left:25px;
+    font-size:25px;
+}
+
+.fa-linkedin{
+    padding-left:25px;
+    font-size:25px;
+}
